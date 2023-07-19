@@ -1,0 +1,15 @@
+.eight-ball {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  font-size: 20px;
+  cursor: pointer;
+}
+
+.eight-ball p {
+  text-align: center;
+}
